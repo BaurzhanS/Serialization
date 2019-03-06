@@ -1,0 +1,14 @@
+C:\Users\ГерценЕ.LOCAL\source\repos\ConsoleApp13\ConsoleApp13\bin\Debug\ConsoleApp13.exe.config
+C:\Users\ГерценЕ.LOCAL\source\repos\ConsoleApp13\ConsoleApp13\bin\Debug\ConsoleApp13.exe
+C:\Users\ГерценЕ.LOCAL\source\repos\ConsoleApp13\ConsoleApp13\bin\Debug\ConsoleApp13.pdb
+C:\Users\ГерценЕ.LOCAL\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\ConsoleApp13.csprojAssemblyReference.cache
+C:\Users\ГерценЕ.LOCAL\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\ConsoleApp13.csproj.CoreCompileInputs.cache
+C:\Users\ГерценЕ.LOCAL\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\ConsoleApp13.exe
+C:\Users\ГерценЕ.LOCAL\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\ConsoleApp13.pdb
+C:\Users\ГерценЕ.LOCAL\source\repos\ConsoleApp13\ConsoleApp13\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ГерценЕ.LOCAL\source\repos\ConsoleApp13\ConsoleApp13\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\ГерценЕ.LOCAL\source\repos\ConsoleApp13\ConsoleApp13\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ГерценЕ.LOCAL\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\ConsoleApp13.csproj.CopyComplete
+C:\Users\ГерценЕ.LOCAL\source\repos\ConsoleApp13\ConsoleApp13\bin\Debug\RandomUser.dll
+C:\Users\ГерценЕ.LOCAL\source\repos\ConsoleApp13\ConsoleApp13\bin\Debug\ClassLib.dll
+C:\Users\ГерценЕ.LOCAL\source\repos\ConsoleApp13\ConsoleApp13\bin\Debug\ClassLib.pdb
